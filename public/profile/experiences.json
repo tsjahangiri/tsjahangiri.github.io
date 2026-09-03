@@ -1,45 +1,46 @@
 {
     "experiences": [
         {
-            "title": "Full Stack Developer",
-            "subtitle": "wirbauen.digital, Germany",
+            "title": "Senior Software Developer",
+            "subtitle": "Onpier GmbH, Munich, Germany",
             "workType": "Full-time",
             "workDescription": [
-                "Established a 98% test coverage using a full test pyramid involving **Unit, Integration, and E2E tests**.",
-                "Delivered end-to-end features across Full Stack in an **Agile environment**.",
-                "Collaborated with cross-functional teams to build scalable **web applications**."
+                "Designed and operated 10+ production-grade Spring Boot microservices for leading German insurance providers, enabling scalable, API-driven value-added services with 99.9% uptime in production environments.",
+                "Leveraged AI-assisted development tools (Claude, ChatGPT, GitHub Copilot) for solution exploration, code generation, automated test creation, code reviews, debugging, and technical documentation, significantly accelerating development while maintaining production-grade quality standards.",
+                "Led company-wide migration 25+ CI/CD pipelines from Jenkins to Tekton, cutting build times by 25%, boosting deployment success by ~30%, and fully removing manual release steps through Kubernetes-native automation.",
+                "Orchestrated containerized backend services on Kubernetes, enabling zero-downtime deployments, horizontal scaling, and stable multi-environment production operations.",
+                "Built the platform's observability layer (Micrometer/Prometheus metrics, Grafana dashboards, latency and error-rate alerts tied to SLOs) and carry on-call for business-critical carrier integrations.",
+                "Engineered integration and Selenium-based E2E test suites with Allure reporting, covering ~75-80% of critical backend workflows and reducing regression-related production incidents by ~40%."
             ],
-            "dateText": "04/2022 – Present"
+            "dateText": "08/2022 – Present"
+        },
+        {
+            "title": "Backend Developer",
+            "subtitle": "Fimo Health GmbH, Köln, Germany",
+            "workType": "Full-time",
+            "workDescription": [
+                "Delivered microservices-based backend systems for a digital healthcare platform supporting 1,500+ multiple sclerosis patients, ensuring scalable architecture and strict GDPR-compliant processing of sensitive medical data.",
+                "Defined and optimized backend APIs and service workflows using Java and Spring Boot, lowering average API latency by ~20% and improving overall system responsiveness.",
+                "Produced medical reporting and data visualization modules using Python (Pandas, Plotly, Flask), shortening report generation time by ~30% and accelerating clinical decision support.",
+                "Refined backend reliability by diagnosing performance bottlenecks and optimizing data access patterns across services backed by Cassandra and MongoDB.",
+                "Expanded unit test coverage to ~80% by authoring comprehensive Groovy-based test suites, significantly reducing regression defects during feature releases.",
+                "Liaised with product managers, clinicians, and frontend teams (8-10 stakeholders) in an Agile/Scrum environment, translating medical requirements into secure, production-ready backend solutions."
+            ],
+            "dateText": "05/2021 – 08/2022"
         },
         {
             "title": "Software Engineer",
-            "subtitle": "Tinkering Inc, USA, Remote",
+            "subtitle": "Global Rescue LLC, USA (Remote)",
             "workType": "Full-time",
             "workDescription": [
-                "Developed and maintained full stack web applications.",
-                "Worked with **cross-functional** teams to define, design, and ship new features."
+                "Built Spring Boot backend services for a national COVID-19 travel tracking and compliance platform deployed in Jamaica, supporting high-volume seasonal tourism traffic and large-scale traveler data processing.",
+                "Enhanced backend modules for survey and traveler risk assessment workflows, improving data reliability during peak usage periods.",
+                "Operated backend services on AWS infrastructure (EC2, S3), ensuring scalable and reliable cloud-native deployments.",
+                "Modernised legacy backend components, reducing recurring production issues by ~30% and improving long-term system stability.",
+                "Introduced SAML 2.0 SSO integration with enterprise identity providers, strengthening authentication security and enabling federated enterprise access.",
+                "Contributed within Agile/Scrum teams (6–8 engineers), participating in sprint planning, peer code reviews, and backend design discussions to deliver production-ready services."
             ],
-            "dateText": "01/2021 – 04/2022"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "Fiverr",
-            "workType": "Freelance",
-            "workDescription": [
-                "Delivered exceptional software solutions to clients, ensuring high satisfaction and repeat business.",
-                "Earned strong reputation and maintained a **5-star ⭐ rating** through consistent quality and timely delivery."
-            ],
-            "dateText": "01/2020 – 12/2020"
-        },
-        {
-            "title": "Full Stack Developer",
-            "subtitle": "Gulzarsoft",
-            "workType": "Internship",
-            "workDescription": [
-                "First ever internship.",
-                "Worked on entire stack of a web application using **Django** and **ReactJS**."
-            ],
-            "dateText": "09/2019 – 12/2019"
+            "dateText": "03/2018 – 03/2021"
         }
     ]
 }

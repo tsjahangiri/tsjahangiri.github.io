@@ -1,10 +1,14 @@
 {
     "education":[
         {
-            "title": "Sept 2017 - Sept 2021",
-            "cardTitle": "BS, Software Engineering",
-            "cardSubtitle":"University of Gujrat, Pakistan",
-            "cardDetailedText": "CGPA - 3.72 / 4.00"
+            "title": "Aug 2013 - May 2017",
+            "cardTitle": "BS, Computer Engineering",
+            "cardSubtitle":"Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Pakistan"
+        },
+        {
+            "title": "Oct 2020 - Aug 2022",
+            "cardTitle": "MS, Global Software Development",
+            "cardSubtitle":"Hochschule Fulda, Germany"
         }
     ]
 }

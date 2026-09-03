@@ -5,28 +5,12 @@
             "title": "Languages & Databases",
             "items" : [
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
                     "icon": "images/skills/java.png",
                     "title": "Java"
                 },
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
-                },
-                {
-                    "icon": "images/skills/typescript.png",
-                    "title": "TypeScript"
-                },
-                {
-                    "icon": "images/skills/html.png",
-                    "title": "HTML"
-                },
-                {
-                    "icon": "images/skills/css.png",
-                    "title": "CSS"
                 },
                 {
                     "icon": "images/skills/postgres.png",
@@ -39,26 +23,22 @@
                 {
                     "icon": "images/skills/mongo.png",
                     "title": "MongoDB"
+                },
+                {
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
+                },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/django.png",
-                    "title": "Django"
-                },
-                {
                     "icon": "images/skills/spring-boot.png",
                     "title": "Spring Boot"
-                },
-                {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
-                },
-                {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
                 }
             ]
         },
@@ -78,24 +58,24 @@
                     "title": "Docker"
                 },
                 {
-                    "icon": "images/skills/playwright.png",
-                    "title": "Playwright"
-                },
-                {
                     "icon": "images/skills/aws.png",
                     "title": "AWS"
                 },
                 {
-                    "icon": "images/skills/openshift.png",
-                    "title": "OpenShift"
+                    "icon": "images/skills/gcp.png",
+                    "title": "Google Cloud"
                 },
                 {
-                    "icon": "images/skills/cloudflare.png",
-                    "title": "Cloudflare"
+                    "icon": "images/skills/jenkins.png",
+                    "title": "Jenkins"
                 },
                 {
-                    "icon": "images/skills/firebase.png",
-                    "title": "Firebase"
+                    "icon": "images/skills/tekton.png",
+                    "title": "Tekton"
+                },
+                {
+                    "icon": "images/skills/grafana.png",
+                    "title": "Grafana"
                 }
             ]
     }

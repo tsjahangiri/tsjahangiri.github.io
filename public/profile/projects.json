@@ -1,88 +1,44 @@
 {
   "projects": [
     {
-      "image": "images/projects/framefitness.jpg",
-      "title": "Frame Fitness - Fitness Platform",
-      "bodyText": "- A fitness platform based in the USA.\n - Contributed as a Freelancer on initial **development and deployment**.",
+      "image": "images/projects/car-selling.png",
+      "title": "Car Selling - Car Selling Portal",
+      "bodyText": "- A car-selling platform based in the Germany.\n - Contributed as a Backend developer on whole **development and deployment**.",
       "links": [
         {
           "text": "Live",
-          "href": "https://framefitness.com"
+          "href": "https://fahrzeugverkauf.ruv.onpier.de/"
         }
       ],
       "tags": [
-        "React",
-        "Django",
-        "TypeScript",
+        "Java",
+        "SpringBoot",
+        "Microservices",
         "AWS",
-        "Stripe",
-        "SendGrid",
         "Rest API",
-        "Docker"
+        "Kubernetes",
+        "Tekton"
       ]
     },
     {
-      "image": "images/projects/ipurvey.jpg",
-      "title": "Ipurvey -  Freight management Platform",
-      "bodyText": "- Next generation freight management platform.\n - Contributed in development of dynamic print **micro-service** as a Freelancer.",
+      "image": "images/projects/car-rental.jpg",
+      "title": "Car Rental - Car Rental Portal",
+      "bodyText": "- A car-rental platform based in the Germany.\n - Contributed in development of dynamic print **micro-service** as a developer.",
       "links": [
         {
           "text": "Live",
-          "href": "http://ipurvey.com"
-        }
-      ],
-      "tags": ["Java", "Spring Boot", "Microservices", "AWS", "Docker"]
-    },
-    {
-      "image": "images/projects/skillit.jpg",
-      "title": "Skillit - Hiring Platform",
-      "bodyText": "- A US based hiring platform designed for **Construction Workers**.\n - Integrated TypeForm Quizes in their platform as a Freelancer.",
-      "links": [
-        {
-          "text": "Live",
-          "href": "https://skillit.com"
-        }
-      ],
-      "tags": ["Angular", "TypeScript", "Django", "REST API", "Typeform"]
-    },
-    {
-      "image": "images/projects/islamopedia.jpg",
-      "title": "Islamopedia Books - Digitizing Archived Books",
-      "bodyText": "- An **open-source** initiative to digitize archived audio books into modern accessible formats.\n - Implements AI-powered OCR and audio processing technologies.",
-      "links": [
-        {
-          "text": "GitHub",
-          "href": "https://github.com/segullshairbutt/islamopedia-books"
-        },
-        {
-          "text": "Youtube",
-          "href": "https://www.youtube.com/@Islamopedia-books"
+          "href": "https://mietwagen.lvm.onpier.de/"
         }
       ],
       "tags": [
-        "open-source",
-        "Python",
-        "OCR",
-        "AI",
-        "Audio Processing",
-        "OpenAI"
+        "Java",
+        "SpringBoot",
+        "Microservices",
+        "AWS",
+        "Rest API",
+        "Kubernetes",
+        "Tekton"
       ]
-    },
-    {
-      "image": "images/projects/dua-collections.jpg",
-      "title": "Dua Collections - Personal Content Delivery Platform",
-      "bodyText": "- A personal content delivery platform to share **Dua Collections**.\n - A handy tool to share and access Dua collections easily.",
-      "links": [
-        {
-          "text": "GitHub",
-          "href": "https://github.com/segullshairbutt/dua-collections"
-        },
-        {
-          "text": "Live",
-          "href": "https://dua-collections.web.app/"
-        }
-      ],
-      "tags": ["React", "Next.js", "JavaScript", "CSS", "HTML", "open-source"]
     }
   ]
 }
